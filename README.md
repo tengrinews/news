@@ -1,0 +1,2 @@
+# news
+init news
